@@ -1,0 +1,5 @@
+D:\microservices-messaging-consumer\microservices-messaging-consumer\src\main\java\com\example\microservices_messaging_consumer\config\RabbitMQConfig.java
+D:\microservices-messaging-consumer\microservices-messaging-consumer\src\main\java\com\example\microservices_messaging_consumer\domain\User.java
+D:\microservices-messaging-consumer\microservices-messaging-consumer\src\main\java\com\example\microservices_messaging_consumer\MicroMessagingConsumerApplication.java
+D:\microservices-messaging-consumer\microservices-messaging-consumer\src\main\java\com\example\microservices_messaging_consumer\repository\UserRepository.java
+D:\microservices-messaging-consumer\microservices-messaging-consumer\src\main\java\com\example\microservices_messaging_consumer\service\ConsumerService.java

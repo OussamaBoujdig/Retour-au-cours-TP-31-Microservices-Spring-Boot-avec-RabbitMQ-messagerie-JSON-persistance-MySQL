@@ -1,0 +1,5 @@
+com\example\microservices_messaging_consumer\domain\User.class
+com\example\microservices_messaging_consumer\service\ConsumerService.class
+com\example\microservices_messaging_consumer\repository\UserRepository.class
+com\example\microservices_messaging_consumer\config\RabbitMQConfig.class
+com\example\microservices_messaging_consumer\MicroMessagingConsumerApplication.class
